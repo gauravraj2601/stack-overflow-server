@@ -82,6 +82,87 @@
             }
           ]
         }
-        
+  ],
+  "groceries": [
+    {
+      "id": 1,
+      "name": "Apple",
+      "qty": "5",
+      "price": "1.99",
+      "description": "Fresh apples",
+      "image": "https://www.bigbasket.com/media/uploads/p/m/40134281_14-fresho-baby-apple-shimla.jpg?tr=w-1080,q=80"
+    },
+    {
+      "id": 2,
+      "name": "Banana",
+      "qty": "10",
+      "price": "0.99",
+      "description": "Ripe bananas",
+      "image": "https://www.bigbasket.com/media/uploads/p/m/10000025_27-fresho-banana-robusta.jpg?tr=w-1080,q=80"
+    },
+    {
+      "id": 3,
+      "name": "Milk",
+      "qty": "2",
+      "price": "2.49",
+      "description": "Whole milk",
+      "image": "https://www.bigbasket.com/media/uploads/p/m/40239247_1-amul-moti-toned-milk-homogenised-fresh-no-preservatives-chemical-free.jpg?tr=w-1080,q=80"
+    },
+    {
+      "id": 4,
+      "name": "Bread",
+      "qty": "1",
+      "price": "1.79",
+      "description": "Whole wheat bread",
+      "image": "https://www.bigbasket.com/media/uploads/p/m/40162924_5-britannia-100-whole-wheat-bread.jpg?tr=w-1080,q=80"
+    },
+    {
+      "id": 5,
+      "name": "Eggs",
+      "qty": "12",
+      "price": "3.99",
+      "description": "Farm-fresh eggs",
+      "image": "https://www.bigbasket.com/media/uploads/p/m/40038381_6-fresho-farm-eggs-brown-medium-antibiotic-residue-free.jpg?tr=w-1080,q=80"
+    },
+    {
+      "id": 6,
+      "name": "Cheese",
+      "qty": "1",
+      "price": "4.99",
+      "description": "Cheddar cheese",
+      "image": "https://www.bigbasket.com/media/uploads/p/m/40191706_2-amul-diced-cheese-blend.jpg?tr=w-1080,q=80"
+    },
+    {
+      "id": 7,
+      "name": "Tomato",
+      "qty": "3",
+      "price": "0.75",
+      "description": "Vine-ripened tomatoes",
+      "image": "https://www.bigbasket.com/media/uploads/p/m/10000203_16-fresho-tomato-local.jpg?tr=w-1080,q=80"
+    },
+    {
+      "id": 8,
+      "name": "Chicken",
+      "qty": "2",
+      "price": "7.99",
+      "description": "Boneless chicken breasts",
+      "image": "https://www.bigbasket.com/media/uploads/p/m/40081296_4-fresho-chicken-biryani-cut.jpg?tr=w-1080,q=80"
+    },
+    {
+      "id": 9,
+      "name": "Pasta",
+      "qty": "2",
+      "price": "1.50",
+      "description": "Whole wheat pasta",
+      "image": "https://www.bigbasket.com/media/uploads/p/m/1203876_5-maggi-nutri-licious-pazzta-cheese-macaroni.jpg?tr=w-1080,q=80"
+    },
+    {
+      "id": 10,
+      "name": "Spinach",
+      "qty": "1",
+      "price": "2.25",
+      "description": "Fresh spinach leaves",
+      "image": "https://www.bigbasket.com/media/uploads/p/m/40198829_1-fresho-baby-spinach-hydroponically-grown.jpg?tr=w-1080,q=80"
+    }
   ]
 }
